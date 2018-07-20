@@ -23,7 +23,7 @@ int main()
 {
 	int dice_type, dice_amount, still_rolling, currently_rolling, current_roll, roll_sum, roll_mod;
 	srand(time(0));
-	cout << "Dice Roller\n\nLicensed under the Apache License, version 2.0.\n\nCopyright 2018 Borna Pekaric\n\n";
+	cout << "Dice Roller\n\nLicensed under Apache License, version 2.0.\n\nCopyright 2018 Borna Pekaric\n\n";
 	system("pause");
 	still_rolling = 1;
 	while (still_rolling == 1)
