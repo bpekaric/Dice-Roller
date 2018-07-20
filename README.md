@@ -18,4 +18,4 @@ Currently supported dice are d2, d4, d6 (the standard playing die), d8, d10, d12
 
 This program is licensed under the Apache License, version 2.0.
 
-Copyright 2018 Borna Pekaric
+Copyright 2018 Borna Pekarić
