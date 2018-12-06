@@ -1,8 +1,10 @@
-# Dice Roller
+﻿# Dice Roller
 
 1. ABOUT
 
 2. LEGAL
+
+3. CHANGELOG
 
 <br/>
 
@@ -19,3 +21,9 @@ Currently supported dice are d2, d4, d6 (the standard playing die), d8, d10, d12
 This program is licensed under the Apache License, version 2.0.
 
 Copyright 2018 Borna Pekarić
+
+<br/>
+
+1.1
+
+- Fixed author's name in copyright notice.
